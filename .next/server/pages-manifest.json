@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/dashboard/profile": "pages/dashboard/profile.js",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/dashboard/analytics": "pages/dashboard/analytics.js",
+  "/dashboard": "pages/dashboard.js",
+  "/dashboard/settings": "pages/dashboard/settings.js"
+}
